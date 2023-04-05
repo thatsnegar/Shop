@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "IRANSansWeb";
+    src: url("../fonts/IRANSansWeb.eot");
+    src: url("../fonts/IRANSansWeb.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANSansWeb.woff") format("woff"), url("../fonts/IRANSansWeb.ttf") format("truetype");
+    font-weight: normal;
+}
+
+html {
+    font-size: 14px;
+    font-family: "IRANSansWeb" !important;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    font-family: "IRANSansWeb" !important;
+}
+
+body {
+    margin-bottom: 60px;
+    font-family: "IRANSansWeb" !important;
+}
+
